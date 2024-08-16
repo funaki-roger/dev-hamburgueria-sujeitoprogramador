@@ -30,8 +30,10 @@ Este projeto é um sistema de cardápio digital para hamburguerias, que permite 
 
 ---
 
-Desenvolvido por Sujeito programador.
 
----
+Projeto original do [Sujeito Programador]
+Design no Figma: https://www.figma.com/design/nGFVqOcJQMEzKIyR2AE8y8/Restaurant---dev-burguer?node-id=0-1&t=mrBMHrXZ05YgAzjp-1
+Desenvolvido por: Roger Funaki :)
 
-URL do projeto para visualização: https://dev-hamburgueria.vercel.app/
+Confira o resultado final aqui: https://dev-hamburgueria.vercel.app/
+
